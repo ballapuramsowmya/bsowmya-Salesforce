@@ -2,9 +2,15 @@
 
 ## About Me
 
-Learning Deployment Manager with 8+ years of experience at IBM. Currently transitioning into Salesforce Developer.
+Learning Deployment Manager at IBM with 8+ years of experience in learning operations, stakeholder management, and technology enablement.
 
-## Learning Areas
+Passionate about Salesforce administration and development, with hands-on experience in Flow Automation, Apex, Lightning Web Components, Agentforce, and Data Cloud. Actively building Salesforce solutions and expanding expertise in the Salesforce ecosystem.
+
+# Career Objective
+ 
+To leverage my enterprise experience, Salesforce certifications, and technical skills to design, develop, and optimize Salesforce solutions while growing as a Salesforce Developer and Technical Consultant.
+
+## Technical Skills
 
 - Salesforce Admin
 - Flow Automation
@@ -16,13 +22,13 @@ Learning Deployment Manager with 8+ years of experience at IBM. Currently transi
 
 ## Certifications
 
-- Salesforce Certified Platform Administrator
-- Salesforce Certified Platform App Builder
-- Salesforce Certified Platform Developer
-- Salesforce Certified Platform Developer II
-- Salesforce Certified Agentforce Sales Consultant
-- Salesforce Certified Agentforce Specialist
-- Salesforce Certified Data 360 Consultant
+✅ Salesforce Certified Platform Administrator
+✅ Salesforce Certified Platform App Builder
+✅ Salesforce Certified Platform Developer
+✅ Salesforce Certified Platform Developer II
+✅ Salesforce Certified Agentforce Sales Consultant
+✅ Salesforce Certified Agentforce Specialist
+✅ Salesforce Certified Data 360 Consultant
 
 ## Assignments
 Coming Soon
@@ -31,7 +37,7 @@ Coming Soon
 Coming Soon
 
 ## Contact
-LinkedIn : 
+LinkedIn : https://www.linkedin.com/in/b-sowmya-06435212b
 Trailhead : https://www.salesforce.com/trailblazer/ballapuramsowmya
 Email : ballapuramsowmya94@gmail.com
 
