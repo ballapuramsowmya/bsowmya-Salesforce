@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sowmya 👋
 
-<!--
-**ballapuramsowmya/ballapuramsowmya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Learning Deployment Manager with 8+ years of experience at IBM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently transitioning into Salesforce Administration and Development.
+
+## Learning Areas
+
+- Salesforce Administration
+- Flow Automation
+- Apex Development
+- Lightning Web Components
+- Integration
+- Agentforce
+
+## Certifications
+
+- Salesforce Administrator (In Progress)
+
+## Projects
+
+Coming Soon
